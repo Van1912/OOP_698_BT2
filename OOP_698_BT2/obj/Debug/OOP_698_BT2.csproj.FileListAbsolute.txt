@@ -1,0 +1,8 @@
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\bin\Debug\OOP_698_BT2.exe.config
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\bin\Debug\OOP_698_BT2.exe
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\bin\Debug\OOP_698_BT2.pdb
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\obj\Debug\OOP_698_BT2.csproj.AssemblyReference.cache
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\obj\Debug\OOP_698_BT2.csproj.CoreCompileInputs.cache
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\obj\Debug\OOP_698_BT2.exe
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\obj\Debug\OOP_698_BT2.pdb
+C:\Users\khanh\source\repos\Bài tập LTHDT\OOP_698_BT2\OOP_698_BT2\obj\Debug\OOP_698_BT2.exe.config
